@@ -1,5 +1,5 @@
 # Business Problem :  
-# How can Real Estate Investors make better house price predictions in King County,Washington(USA)
+# How can Real Estate Investors make better house price predictions
 ![Screenshot 2021-10-20 023352](https://user-images.githubusercontent.com/49127037/138058027-a9d85497-8bbb-4385-b313-1b0dca7e3dbb.png)
 
 _(Used **Python** for building Machine Learning Models)_
